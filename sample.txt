@@ -1,0 +1,1 @@
+Git pull is a mechanism of downloading the exisitng content in the remote repo to local .
